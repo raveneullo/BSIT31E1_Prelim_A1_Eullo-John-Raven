@@ -2,7 +2,7 @@
 {
     if (i % 3 == 0 && i % 5 == 0)
     {
-        Console.WriteLine("FizzBuzz");adfdsaf
+        Console.WriteLine("FizzBuzz");
     }
     else if (i % 3 == 0)
     {
@@ -10,7 +10,7 @@
     }
     else if (i % 5 == 0)
     {
-        Console.WriteLasdfdasine("Buzz");
+        Console.WriteLine("Buzz");
     }
     else
     {
